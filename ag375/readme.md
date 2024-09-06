@@ -6,10 +6,10 @@
 
 * Keyboard Maintainer: [Javier Pedrajas Mendoza](https://github.com/Ag3NtK)
 * Hardware Supported: Handwired build using the weact blackpill_f411, used the keychron Q1 FR4 plate to solder the Gateron G Pro 3.0 Yellow switches.
-* Hardware Availability: 
-            The development board: https://es.aliexpress.com/item/1005001456186625.html?spm=a2g0o.order_list.order_list_main.11.29b7194dJrbyHt&gatewayAdapt=glo2esp
-            The Keychron Q1 FR4 plate: https://www.keychron.com/products/q1-fr4-plate
-            Gateron G Pro 3.0 Yellow switches: https://www.keychron.com/products/gateron-g-pro-3-0-switch?variant=40509382754393
+* Hardware Availability: \
+            The development board: https://es.aliexpress.com/item/1005001456186625.html?spm=a2g0o.order_list.order_list_main.11.29b7194dJrbyHt&gatewayAdapt=glo2esp \
+            The Keychron Q1 FR4 plate: https://www.keychron.com/products/q1-fr4-plate \
+            Gateron G Pro 3.0 Yellow switches: https://www.keychron.com/products/gateron-g-pro-3-0-switch?variant=40509382754393 \
             
 Make example for this keyboard (after setting up your build environment):
 
