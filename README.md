@@ -1,3 +1,3 @@
-# A repository of the keyboards Ag3NtK has made
+# Keyboards I've made
 
 ![Alt text](https://i.imgur.com/RUco7LH.jpeg)
