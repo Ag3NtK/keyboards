@@ -2,8 +2,6 @@
 
 ![ag375](https://i.imgur.com/RUco7LH.jpeg)
 
-*A short description of the keyboard/project*
-
 * Keyboard Maintainer: [Javier Pedrajas Mendoza](https://github.com/Ag3NtK)
 * Hardware Supported: Handwired build using the weact blackpill_f411, used the keychron Q1 FR4 plate to solder the Gateron G Pro 3.0 Yellow switches.
 * Hardware Availability: \
