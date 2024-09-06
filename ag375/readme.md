@@ -25,4 +25,4 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
 
 Enter the bootloader:
 
-* **Hold down the reset button on the development board and plug in the keyboard.
+* **Hold down the boot button on the development board and plug in the keyboard.
